@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("ADDED INTO LOCAL");
         System.out.println("ADDED INTO LOCAL AND PUSH TO GIT MENU");
         // BURASI REMOTE REPODA GITHUBDA EKLENDİ!!!
+        // Yeni Branchda bu satır eklendi (ILYAS_Login_Test)
     }
 }
