@@ -4,5 +4,6 @@ public class Test1 {
         System.out.println("Test1");
         System.out.println("ADDED INTO LOCAL");
         System.out.println("ADDED INTO LOCAL AND PUSH TO GIT MENU");
+        // BURASI REMOTE REPODA GITHUBDA EKLENDİ!!!
     }
 }
